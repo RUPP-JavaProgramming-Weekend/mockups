@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_menu_1"
+        android:title=" គណនេយ្យគ្រប់ជំនាញ "/>
+
+    <item android:id="@+id/nav_menu_2"
+        android:title="គណនេយ្យកុំព្យូទ័រ"/>
+
+    <item android:id="@+id/nav_menu_3"
+        android:title="គណនេយ្យការងារជាក់ស្ដែង"/>
+
+    <item android:id="@+id/nav_menu_4"
+        android:title="កុំព្យូទ័រទូទៅ"/>
+
+    <item android:id="@+id/nav_menu_5"
+        android:title="ភាសាបរទេស"/>
+</menu>
